@@ -1,2 +1,2 @@
-# HelloWorld
-HelloWorld
+# Hello World
+echo "Hello World"
